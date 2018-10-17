@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "version": "",
+  "scripts": {
+  "start": "npm run build:live",
+    "build:live": "nodemon --exec ./node_modules/.bin/ts-node -- ./jobbahemma.ts"
+	},
+  "devDependencies": {
+    "@types/node": "^8.5.1",
+    "nodemon": "^1.13.2",
+    "ts-node": "^4.0.2",
+    "typescript": "^2.6.2"
+  }
+}
