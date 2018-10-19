@@ -1,0 +1,29 @@
+
+
+#Br{
+  color:rgb(255, 255, 255);
+  font-size: 120px;
+  padding-left: 10px;
+  font-family: Helvetica;
+  width: 129px;
+  height: 134px;
+  background-image: linear-gradient(145deg,rgb(43, 79, 44),50%,rgb(27, 132, 30) );
+}
+#tretiofem{
+  font-family: Helvetica;
+  color:rgb(255, 255, 255);
+  background-color: transparent;
+  border: 2px solid rgb(17, 58, 19);
+  font-weight: bold;
+  position:absolute;
+  font-size: 25px;
+  text-align:right;
+  padding: 100px;
+  padding-top: 2px;
+  padding-right: 15px;
+  margin: 0px;
+  width: 20px;
+}
+#text{
+
+}
