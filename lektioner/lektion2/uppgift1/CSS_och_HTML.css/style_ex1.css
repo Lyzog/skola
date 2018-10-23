@@ -1,0 +1,17 @@
+div{
+  border: 1px solid darkgray;
+  padding: 14px;
+  background-color: beige;
+}
+
+.table{
+  display: table;
+}
+
+.table > div {
+  display: table-row;
+}
+.table > div > div{
+  display: table-cell;
+  background-color: turquoise;
+}

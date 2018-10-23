@@ -1,0 +1,18 @@
+div{
+  border: 1px solid darkgray;
+  padding: 4px;
+  margin: 4px;
+}
+
+#flexdiv{
+  display: flex;
+  flex-direction: row;
+}
+
+#flexdiv > *{
+  flex:1 1 auto;
+}
+
+#flexdiv :first-child{
+  flex-grow: 3;
+}
